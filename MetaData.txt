@@ -15,3 +15,7 @@ c:/Users/Administrator/Desktop/ContactUs/env/Scripts/Activate.ps1
 
 #To run python file
 python .\app.py
+
+#Git Config
+git config user.name pchopkar
+git config user.email chopkarparjanya@gmail.com
