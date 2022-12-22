@@ -1,0 +1,17 @@
+#install flask 
+pip install flask
+
+#install flask_sqlalchemy
+pip install flask_sqlalchemy
+
+#To install virtual Env
+pip install virtualenv
+
+#To install Virtual Environment
+virtualenv env
+
+#To activatate virtual environment
+c:/Users/Administrator/Desktop/ContactUs/env/Scripts/Activate.ps1
+
+#To run python file
+python .\app.py
